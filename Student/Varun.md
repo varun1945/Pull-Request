@@ -1,4 +1,4 @@
-  Varun Kumar
+# Varun  Kumar
 
 ### Academics
 
@@ -11,5 +11,5 @@ Undergraduate in B.Tech. CSE from Chitkara University,Punjab
 
 ### Profile Link
 
-[varun kumar](https://github.com/varun1945)
+[Varun Kumar](https://github.com/varun1945)
 
